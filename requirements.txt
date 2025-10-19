@@ -1,0 +1,12 @@
+annotated-types==0.7.0
+psutil==7.0.0
+psycopg==3.2.9
+psycopg-binary==3.2.9
+psycopg-pool==3.2.6
+pydantic==2.11.7
+pydantic-settings==2.10.0
+pydantic_core==2.33.2
+python-dotenv==1.1.1
+typing-inspection==0.4.1
+typing_extensions==4.14.0
+neo4j=5.28.2
